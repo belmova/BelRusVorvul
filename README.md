@@ -9,4 +9,4 @@
 </body>
 ```
 
-[The old dictionary without word forms](img/old-nowordforms.png?raw=true)
+![The old dictionary without word forms](img/old-nowordforms.png?raw=true)
